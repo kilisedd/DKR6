@@ -103,7 +103,7 @@ nodeCounter := 0;
 
 repeat
 Writeln('1. Ввод данных');
-Writeln('2. Удаление  данные');
+Writeln('2. Удаление  эллемента');
 Writeln('3. Вывести список данных');
 Writeln('4. Выход из меню');
 Readln(choice);
